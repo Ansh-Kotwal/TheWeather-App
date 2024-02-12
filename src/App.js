@@ -17,7 +17,7 @@ function App() {
 
 
 
-  // document.body.style.backgroundImage = "url(Images/bg.jpg)"
+   document.body.style.backgroundImage = "url(Images/bg.jpg)"
 
   return (
     <>
